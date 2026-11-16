@@ -1,0 +1,6 @@
+packages:
+  - desktop
+allowBuilds:
+  electron: true
+  esbuild: true
+  vue-demi: true
